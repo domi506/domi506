@@ -1,5 +1,5 @@
-h1 align="center">Hola 👋, mi nombre es Dominique Reyes</h1>
-<h3 align="center">soy una frontend developer from India</h3>
+<h1 align="center">Hola 👋, mi nombre es Dominique Reyes</h1>
+<h3 align="center">soy una frontend developer from Chile</h3>
 
 - 💬 Ask me about **html,css,javascript,vuejs**
 
