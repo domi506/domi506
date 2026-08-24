@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Dominique Reyes</h1>
-<h3 align="center">Soy diseñadora UI/UX y desarrolladora web</h3>
+<h3 align="center">Soy diseñadora UX/UI y desarrolladora web</h3>
 
 - 💬 Ask me about **html, css, javaScript, vuejs**
 
